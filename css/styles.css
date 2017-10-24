@@ -1,9 +1,16 @@
 h1 {
-  text-align: center;
-  background-color: #b1a688;
+padding: 40px;
+margin-bottom: 30px;
+font-size: 40px;
+font-weight: 200;
+line-height: 2.1428571;
+color: inherit;
+text-align: center;
+background-color: #b1a688;
 }
 body{
-  font-size: 40px;
+  font-size: 20px;
+  background-color: grey;
 }
 .float-left-area  {
 		  width: 30%;
@@ -24,10 +31,17 @@ body{
 }
 
 .inner-right	  {
-		  font-size: 30px;
+		  font-size: 20px;
 		  padding: 5px 5px 5px 5px;
 		  border: #999999 1px solid;
 		  min-height: 60px;
 		  }
 
-.clear-floated	  { clear: both; height: 1px; font-size: 1px; line-height: 1px; padding: 0; margin: 0; }
+.clear-floated	  {
+  clear: both;
+  height: 1px;
+  font-size: 1px;
+  line-height: 1px;
+  padding: 0;
+  margin: 0;
+}
