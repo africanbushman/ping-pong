@@ -1,7 +1,7 @@
 h1 {
 padding: 40px;
 margin-bottom: 30px;
-font-size: 40px;
+font-size: 50px;
 font-weight: 200;
 line-height: 2.1428571;
 color: inherit;
@@ -12,14 +12,17 @@ body{
   font-size: 20px;
   background-color: grey;
 }
+
 .float-left-area  {
 		  width: 30%;
 		  float: left;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .float-right-area {
 		  width: 70%;
 		  float: left;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .inner-left	  {
