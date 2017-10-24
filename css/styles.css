@@ -1,6 +1,10 @@
 h1 {
   text-align: center;
 }
+body{
+  font-size: 40px;
+
+}
 .float-left-area  {
 		  width: 30%;
 		  float: left;
