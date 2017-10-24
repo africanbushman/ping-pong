@@ -17,7 +17,7 @@ For the best viewing experience please use a laptop or desktop and if possible u
 
 ## Here is the link to the live site on GitHub pages
 
-
+https://africanbushman.github.io/ping-pong/.
 
 ## Technologies Used
 
