@@ -1,6 +1,7 @@
+
 $("form#inputForm").submit(function(event) {
   var numbers = parseInt($("input").val());
-
+$( ".output" ).empty();
   for (var index = 1; index <= numbers; index += 1) {
     if (index % 15 == 0) {
       $(".output").append("<li>" + "Pingpong" + "</li>");
@@ -13,4 +14,5 @@ $("form#inputForm").submit(function(event) {
     }
   }
 event.preventDefault();
+
 });
