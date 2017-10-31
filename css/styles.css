@@ -1,14 +1,12 @@
-/*h1 {
-  padding: 40px;
-  margin-bottom: 30px;
-  font-size: 50px;
-  font-weight: 200;
-  line-height: 2.1428571;
-  color: inherit;
+.jumbotron {
   text-align: center;
-  background-color: #b1a688;
-  background-image: url(../ping pong.png);
-}*/
+  background-image: url(../img/pingpong.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #FFD7A2
+
+}
 
 body {
   font-size: 20px;
